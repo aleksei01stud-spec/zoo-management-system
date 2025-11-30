@@ -53,3 +53,5 @@ OC: Windows/Linux/MacOS
 Email: aleksei01stud@gmail.com
 Email2: SmolyanichenkoAG23@rostov-don.ithub.ru
 Telegram: @vyvy_gr
+## Тестирование и обратная связь
+В ходе тестирования проекта "Zoo Management System" было проведено функциональное и пользовательское тестирование. Пользователи оценили удобство интерфейса, выявили несколько ошибок и предложили улучшения.
